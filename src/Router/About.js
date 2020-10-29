@@ -8,7 +8,7 @@ class About extends Component {
     render() { 
         return (
             
-            <h1> sathish akula Training and Consulting</h1>
+            <h1> SIRISH Training and Consulting</h1>
          );
     }
 }
